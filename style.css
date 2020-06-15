@@ -1,0 +1,67 @@
+body{
+	margin top: 0;
+	margin-bottom: 0 ;
+	width: 950px;
+}
+ 
+header
+{
+border: double 10px olive;
+width: auto;
+height: 200px;
+  
+}
+ nav{
+ 	background-color: #FFFF00;
+ }
+ p{
+
+ 	font-family: cursive ;
+ 	font-style: italic;
+ 	text-align: center;
+ }
+ 
+ section{
+ 	border: dotted 2px #FFFF00;
+ 	margin-top: 5px;
+ 	margin-bottom: 5px;
+ 	margin-left: 200px;
+ 	margin-right: 200px;
+ }
+
+ a{
+ 	margin-left: 20px;
+ 	margin-right: 20px;
+ 	text-align: center;
+ 	padding: 25px;
+ }
+ footer{
+ 	color: #FFFF00;
+ 	border-style: double;
+ 	background-color: olive;
+ }
+ #sect{
+ 	background-color: #D3D3D3;
+ 	margin-left: 300px;
+ }
+ #sect1{
+ 	background-color: olive;
+ 	margin-right: : 300px;
+ }
+aside{
+	background-color: #D3D3D3;
+ 	font-weight: bold;
+ 	color: #FFFF00;
+ 	width: 180px;
+ 	border-style: solid;
+ 	border-color: olive;
+ 	position: absolute;
+ 	top: 650px;
+ 	left:10px;
+
+ }
+ h1{
+ 	text-align: center;
+ }
+ 
+     
